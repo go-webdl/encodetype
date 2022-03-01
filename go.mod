@@ -1,3 +1,3 @@
 module github.com/go-webdl/encodetype
 
-go 1.17
+go 1.18
